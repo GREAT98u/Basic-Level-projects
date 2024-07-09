@@ -135,8 +135,3 @@ while True:
 		hit_ball.setx(-360)
 		hit_ball.dx*=-1
 				
-
-					
-					
-						
-
